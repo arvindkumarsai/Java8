@@ -25,7 +25,7 @@ public class StaticNClass {
 		
 		// access by outer class to inner class variables
 		//StaticNClass.innerStaticClass.i ;//
-		StaticNClass.innerStaticClass.k ;//
+		//StaticNClass.innerStaticClass.k ;//
 		System.out.println("accessing inner class variable " +innerStaticClass.k);
 		
 		}
